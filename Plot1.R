@@ -1,7 +1,7 @@
 #Peer-graded Assignment: Course Project 1
 #read txt file
 
-power_consumption <- read.csv("D:/Coursera/ASSIGNMENT/5/household_power_consumption.txt", sep = ";", stringsAsFactors = FALSE)
+power_consumption <- read.csv("household_power_consumption.txt", sep = ";", stringsAsFactors = FALSE)
 
 #Change classes of Date and Time variables
 
